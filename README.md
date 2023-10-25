@@ -1,6 +1,6 @@
 # Sales-insight-project
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. SQL database dump is in db_dump.sql file above.
 
 ### Data Analysis Using SQL
 
